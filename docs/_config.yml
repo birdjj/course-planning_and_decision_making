@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: State Estimation for Robotics and Autonomous Systems
+title: Planning and Decision-Making 
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://birdlab-utep.github.io"
+url: "https://birdjj.github.io/courses-planning_and_decision_making"
 
 # Build settings
 theme: minima
 
-include: ['_pages', '_pages/homework', '_pages/activities']
+include: ['_pages', '_pages/exercises']
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
