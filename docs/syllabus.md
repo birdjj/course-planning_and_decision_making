@@ -191,15 +191,16 @@ Nominal Weights
 ## Course Policies
 
 ### Technology Requirements
-Homework, activities, and projects may require computer software programming. You will be provided with python environments and shells for the exercises. You can [https://www.python.org/downloads](install python by itself) or as part of [https://www.anaconda.com/products/distribution](the anaconda environment). Unless you have been regularly using python in the past I recommend using anaconda.
+Homework, activities, and projects will require computer software programming. You will be provided with python environments and shells for the exercises. You can [install python by itself](https://www.python.org/downloads) or as part of [the anaconda environment](https://www.anaconda.com/products/distribution). Unless you have been regularly using python in the past I recommend using anaconda.
 
 You will have to install some additional libraries to complete the activities. At a minimum you will need:
 * numpy
 * scipy
 * matplotlib
+
 These all come with anaconda, so if you go that route you will be set.
 
-If you do not have access to a laptop, you can borrow one from [https://www.utep.edu/technologysupport/TSCenter/TSC_EQ_LaptopsTablets.html](the library at this link).
+If you do not have access to a laptop, you can borrow one from [the library at this link](https://www.utep.edu/technologysupport/TSCenter/TSC_EQ_LaptopsTablets.html).
 
 Activity and project reports should be submitted as zip files contining a PDF report and a "software" folder through the blackboard system. You may submit your code via links to a git repo that I can access if you prefer.
 
