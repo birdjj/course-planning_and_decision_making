@@ -162,6 +162,7 @@ Nominal Weights
 | W, 2022-08-24 | | Lecture -- Paths vs Trajectories, Cost Functions |
 | M, 2022-08-29 | | Lecture -- Graphs, I |
 | W, 2022-08-31 | | Lecture -- Graphs, II |
+| M, 2022-09-05 | | Labor Day, No Class |
 | W, 2022-09-07 | 1 | Dijkstra's Algorithm |
 | M, 2022-09-12 | | Dijkstra's Algorithm |
 | W, 2022-09-14 | | Dijkstra's Algorithm |
@@ -176,7 +177,7 @@ Nominal Weights
 | M, 2022-10-17 | | Lecture -- Planning for Dynamic Systems |
 | W, 2022-10-19 | 5 | Optimal Control |
 | M, 2022-10-24 | | Optimal Control |
-| W, 2022-10-26 | 6 | Lecture -- High Dimensional Planning |
+| W, 2022-10-26 | 6 | Lecture -- High Dimensional Planning, last class before drop day |
 | M, 2022-10-31 | | RRT |
 | W, 2022-11-02 | | RRT |
 | M, 2022-11-07 | | RRT |
