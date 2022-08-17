@@ -145,7 +145,7 @@ You will be provided suggested milestones. I very strongly recommend you satisfy
 Rubrics for evaluation of course assignments will be constructed so that a "C" level grade indicates a satisfactory solution to the assigned problem but without demonstrating an understanding of the theoretical background for the problem and its solution. A "B" level grade will indicate both solution of the assigned problem and an understanding of its theoretical properties. "A" level grades will indicate that in addition to "C" and "B" level mastery that you understand the limitations of the solution developed.
 
 ### Grade Assignment
-This is a graduate level seminar class. My concern is that you engage seriously with this material, find where you can take it into your own interests and research, and learn to assess your own competence and understanding. Evaluation of your work is important, but grade assignment contributes relatively little to this objective. To this end we will experiment with "ungrading" this course. I will provide nominal weighting and rubrics and ask you to assign yourself scores. I reserve the right to invervent and assign scores based on the rubric.
+This is a graduate level seminar class. My concern is that you engage seriously with this material, find where you can take it into your own interests and research, and learn to assess your own competence and understanding. Evaluation of your work is important, but grade assignment contributes relatively little to this objective. To this end we will experiment with "ungrading" this course. I will provide nominal weighting and rubrics and ask you to assign yourself scores. I reserve the right to invervene and assign scores based on the rubric.
 
 Nominal Weights
 
@@ -160,7 +160,7 @@ Nominal Weights
 |-------|--------|--------|--------| 
 | M, 2022-08-22 | | Introduction and python exercises | |
 | W, 2022-08-24 | | Lecture -- Paths vs Trajectories, Cost Functions |
-| M, 2022-08-29 | python(*) | Lecture -- Graphs, I |
+| M, 2022-08-29 | python | Lecture -- Graphs, I |
 | W, 2022-08-31 | | Lecture -- Graphs, II |
 | M, 2022-09-05 | | Labor Day, No Class |
 | W, 2022-09-07 | 1 | Dijkstra's Algorithm |
@@ -188,7 +188,6 @@ Nominal Weights
 | W, 2022-11-23 | | Probabilsitic RRT |
 | M, 2022-11-28 | | Decision-Making over Plans |
 | W, 2022-11-30 | | Decision-Making over Plans |
-(*) the python exercise will not factor into the overall course grade but I VERY STRONGLY recommend you do it -- we will be using python throughout the course and this will cover some of the essential skills.
 
 ## Course Policies
 
