@@ -160,7 +160,7 @@ Nominal Weights
 |-------|--------|--------|--------| 
 | M, 2022-08-22 | | Introduction and python exercises | |
 | W, 2022-08-24 | | Lecture -- Paths vs Trajectories, Cost Functions |
-| M, 2022-08-29 | | Lecture -- Graphs, I |
+| M, 2022-08-29 | python(*) | Lecture -- Graphs, I |
 | W, 2022-08-31 | | Lecture -- Graphs, II |
 | M, 2022-09-05 | | Labor Day, No Class |
 | W, 2022-09-07 | 1 | Dijkstra's Algorithm |
@@ -188,6 +188,7 @@ Nominal Weights
 | W, 2022-11-23 | | Probabilsitic RRT |
 | M, 2022-11-28 | | Decision-Making over Plans |
 | W, 2022-11-30 | | Decision-Making over Plans |
+(*) the python exercise will not factor into the overall course grade but I VERY STRONGLY recommend you do it -- we will be using python throughout the course and this will cover some of the essential skills.
 
 ## Course Policies
 
