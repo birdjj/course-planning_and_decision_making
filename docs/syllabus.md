@@ -33,9 +33,12 @@ At the conclusion of this course you will be able to:
 This course has no formal prerequisites but a basic knowledge of python programming, differential equations, and linear algebra is important. We will be using python extensively in this course as it is widely used in robotics. You need not have any understanding of python at the outset, but you should have a firm foundation in writing functions in MATLAB, python, or another language.
 
 a couple of guides to python for those who have used matlab
-* https://numpy.org/doc/stable/user/numpy-for-matlab-users.html
-* https://hprc.tamu.edu/files/training/2018/Spring/Python4MATLAB.pdf
-* https://docs.python.org/3/tutorial/index.html
+* [numpy guide for matlab users](https://numpy.org/doc/stable/user/numpy-for-matlab-users.html)
+* [another python for matlab guide](https://hprc.tamu.edu/files/training/2018/Spring/Python4MATLAB.pdf)
+* [official python tutorial](https://docs.python.org/3/tutorial/index.html)
+* [official numpy introduction](https://numpy.org/doc/stable/reference/arrays.html)
+* [a series of matlab exercises](http://shiplab.hials.org/script/ppt/MATLAB%20Practice%20-%2060%20Exercises.pdf) these will not directly translate to python/numpy but mastering the ideas they are getting at in python would have you in good shape
+* [a tutorial on classes](https://realpython.com/python3-object-oriented-programming/)
 
 ### Meeting Times:
 Class will meet from 4:30 to 5:50 pm Monday and Wednesday in room 122 in the Liberal Arts building.
