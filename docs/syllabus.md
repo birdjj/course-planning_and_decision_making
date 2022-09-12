@@ -15,7 +15,9 @@ Instructor: John Bird\
 Office: Engineering Building A-115\
 Instructor email: jjbird@utep.edu\
 Instructor phone: 915.747.8406\
-Office Hours:\
+Office Hours: \
+Mondays 10:00–11:00
+Monday / Wednesday 15:00–16:30
 
 ### Course Description
 Planning for robotic systems is concerned with generating the sequence of inputs that takes a system from a starting configuration to a goal configuration. This challenge is fundamental to mobile robotics, but also to manipulation and transportation system design. Many planning problems are also closely related to decision-making, where an agent must choose from a set of options to achieve some objective. In this course we will study reprsentations of the planning environment, mathematical tools used to plan robotic motion, and canonical planning algorithms. We will also study planning for systems subject to uncertainty, and connections between planning and decision-making for robotics.
