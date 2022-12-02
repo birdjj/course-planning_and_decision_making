@@ -140,11 +140,16 @@ X_ = A_step @ X_ + B @ u * dt
 You will perform a self-assessment on each exercise. One objective is for you to not only know and understand the material, but to have an understanding of how well you know and understand it. You will complete the self assessment so that you can later compare it to feedback I provide, helping you to calibrate yourself.
 
 ### Project
-You will also complete a self-identified project requiring application of the concepts and practice of planning and decision-making. You are encouraged to draw the project content from your research, personal, or professional interests. You should discuss a project topic with me and we will agree on an appropriate scope and deliverable. Projects may work with real or simulated systems but require:
+You will also complete a self-identified project requiring application of the concepts and practice of planning and decision-making. You are encouraged to draw the project content from your research, personal, or professional interests. You should discuss a project topic with me and we will agree on an appropriate scope and deliverable.
 
-At the conclusion of the semester you will turn in a final project report no more than 10 total pages (excluding references). Source code should be provided and follow the same documentation requirements as the exercises.
+At the conclusion of the semester you will turn in a final project report no more than 10 total pages (excluding references). Source code should be provided and follow the same documentation requirements as the exercises. The report should cover:
 
-You will be provided suggested milestones. I very strongly recommend you satisfy them. This is a major undertaking and will take you several weeks to complete satisfactorily
+* Introduction: a description of your project, its context, and a clearly delineated planning problem with boundary conditions, states, actions, rewards, and constraints clearly called out.
+* Approach: a description of the approach you will adopt. Place it in the context of other possible approaches you have found and explain why you believe this is the most appropriate. Include any model derivations, and any modifications required to established approaches.
+* Implementation: describe details of the implementation -- what choices did you have to make in how to structure your solution? Are there any empirical or implementation parameters you had to supply? What values did you use and why?
+* Experiments: how does your solution perform on the chosen problem? is your solution working? how do you know?
+* Failure Modes: Identify and describe failure modes for the system and your solution. How might you detect or protect against these? If you encountered any fialures what happened and what did you have to do to prevent or correct them? Are there assumptions baked into your problem or solution that might cause pathological behavior if violated? This is not about coding errors, but a bigger picture.
+* Summary: sum up what you have learned and provide any broad concluding remarks or observations.
 
 ### Grade Expectations
 Rubrics for evaluation of course assignments will be constructed so that a "C" level grade indicates a satisfactory solution to the assigned problem but without demonstrating an understanding of the theoretical background for the problem and its solution. A "B" level grade will indicate both solution of the assigned problem and an understanding of its theoretical properties. "A" level grades will indicate that in addition to "C" and "B" level mastery that you understand the limitations of the solution developed.
